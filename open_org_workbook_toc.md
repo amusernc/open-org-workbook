@@ -11,11 +11,11 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 ## Front Matter
 
 - Preface—Bryan Behrenshausen
-- _Introduction—Jim Whitehurst_
+- _Introduction—Jim Whitehurst_ @lwolfe
 
 ## Getting Started
 
-- _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_
+- _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_ @lwolfe
 - _Getting started with the exercises in this book—Laura Hilliger_
 
 ## Unit 1: Transparency
